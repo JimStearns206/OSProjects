@@ -1,2 +1,5 @@
-pandas-jimstearns206/**
-.idea/**
+# PyCharm files
+**/.idea/**
+# Subdirectories which are GitHub repos in their own right
+yellowbrick/yb_git
+pandas/pandas_git
